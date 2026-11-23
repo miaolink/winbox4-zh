@@ -1,4 +1,4 @@
-# RouterOS / WinBox 4 中文汉化
+﻿# RouterOS / WinBox 4 中文汉化
 
 MikroTik **RouterOS 7.x** 与 **WinBox 4.x** 中文界面资源，包含：
 
@@ -6,7 +6,7 @@ MikroTik **RouterOS 7.x** 与 **WinBox 4.x** 中文界面资源，包含：
 - WinBox 4.5 窗口壳层汉化说明（登录页、右键菜单、文件上传下载等）
 - 效果截图
 
-![效果截图](d279ddf94c3d56370c9d2a2db477d8e4.png)
+![效果截图](screenshots/d279ddf94c3d56370c9d2a2db477d8e4.png)
 
 ## 适用环境
 
@@ -23,8 +23,7 @@ winbox4_zh/
 ├── README.md
 ├── skins/
 │   └── default.json          # 上传到路由器
-├── *.png                     # 效果截图
-└── (本地自用) winbox*.exe    # 勿推送到 GitHub
+└── screenshots/              # 效果与操作截图
 ```
 
 ## 一、Skin 汉化（推荐，所有人可用）
@@ -39,7 +38,7 @@ winbox4_zh/
 
 操作示意（上传到 `skins/default.json`）：
 
-![操作方法：文件管理 → skins → default.json](5c9ea641ca6cd11b1b46a3e5be419214.png)
+![操作方法：文件管理 → skins → default.json](screenshots/5c9ea641ca6cd11b1b46a3e5be419214.png)
 
 ### 中英文共存（可选）
 
@@ -72,11 +71,11 @@ winbox4_zh/
 
 ## 截图
 
-![登录 / 界面示意](9a23e84a7d6d81b3fa8ebe54f4a2661c.png)
+![登录 / 界面示意](screenshots/9a23e84a7d6d81b3fa8ebe54f4a2661c.png)
 
-![App 菜单](89f3df84-80e1-4d44-be87-bc9fc3abcfa3.png)
+![App 菜单](screenshots/89f3df84-80e1-4d44-be87-bc9fc3abcfa3.png)
 
-![App 设置](baabe8c3-de9d-4b03-ba0d-d1a89bba6ca3.png)
+![App 设置](screenshots/baabe8c3-de9d-4b03-ba0d-d1a89bba6ca3.png)
 
 ## 声明
 
