@@ -70,6 +70,8 @@ winbox4_zh/
 
 ## 截图
 
+![效果截图](d279ddf94c3d56370c9d2a2db477d8e4.png)
+
 ![登录 / 界面示意](9a23e84a7d6d81b3fa8ebe54f4a2661c.png)
 
 ![App 菜单](89f3df84-80e1-4d44-be87-bc9fc3abcfa3.png)
