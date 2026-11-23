@@ -31,11 +31,15 @@ winbox4_zh/
 
 ### 安装步骤
 
-1. 用 WinBox 连接路由器 → **Files**
+1. 用 WinBox 连接路由器 → **文件管理（Files）**
 2. 若无 `skins` 文件夹则新建一个
 3. 将本仓库的 `skins/default.json` 上传到 `skins/`
 4. **System → Users → User Groups**，编辑你的用户组，**Skin / 界面主题** 选 `default`
 5. 重新登录 WinBox / WebFig 后生效
+
+操作示意（上传到 `skins/default.json`）：
+
+![操作方法：文件管理 → skins → default.json](5c9ea641ca6cd11b1b46a3e5be419214.png)
 
 ### 中英文共存（可选）
 
@@ -69,8 +73,6 @@ winbox4_zh/
 ## 截图
 
 ![登录 / 界面示意](9a23e84a7d6d81b3fa8ebe54f4a2661c.png)
-
-![菜单示意](5c9ea641ca6cd11b1b46a3e5be419214.png)
 
 ![App 菜单](89f3df84-80e1-4d44-be87-bc9fc3abcfa3.png)
 
