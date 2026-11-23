@@ -6,8 +6,6 @@ MikroTik **RouterOS 7.x** 与 **WinBox 4.x** 中文界面资源，包含：
 - WinBox 4.5 窗口壳层汉化说明（登录页、右键菜单、文件上传下载等）
 - 效果截图
 
-> **重要：** 请勿将修改后的 `winbox.exe` 上传到公开仓库。WinBox 为 MikroTik 专有软件，再分发可能侵犯版权并导致仓库被 DMCA 下架。本仓库仅分享 **skin 与说明**；请自行从 [MikroTik 官网](https://mikrotik.com/download) 下载原版 WinBox。
-
 ## 适用环境
 
 | 项目 | 说明 |
